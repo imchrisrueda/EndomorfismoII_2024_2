@@ -19,7 +19,7 @@ A continuación, encontrarás un menú con hiperenlaces que te llevarán a difer
 
 - [Introducción al Curso](#introducción)
 - [Objetivos del Curso](#objetivos)
-- [TEma 1: Modelos lineales y no lineales](01_NLM)
+- [Tema 1: Modelos lineales y no lineales](01_NLM)
 - [Tema 2: Máquinas de Soporte Vectorial(SVM)](02_SVM)
 - [Tema 3: Árboles de Decisión (DT)](03_DT)
 - [Tema 4: Modelos Basados en Reglas](04_RB)
